@@ -15,7 +15,8 @@ process should be the same even if you have to switch up the css selectors.
 
 ## Instructions: 
 
-While logged in, Go to https://www.reddit.com/user/<yourusernamehere>/comments
+While logged in, Go to 
+`https://www.reddit.com/user/<yourusernamehere>/comments`
 
 and paste this in the console
 
