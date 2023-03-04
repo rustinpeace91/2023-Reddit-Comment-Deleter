@@ -55,5 +55,3 @@ let interval = setInterval(() => {
 	var burger = allBurgers[SAVE_FIRST_COMMENTS]
 	deleteComment(burger)
 }, 2000)
-
-
